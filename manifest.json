@@ -1,7 +1,7 @@
 {
     "short_name": "Prueba",
     "name": "Prueba",
-    "start_url": "http://127.0.0.1:8887/login.html",
+    "start_url": "https://meserosfrontfuncionando.herokuapp.com/login.html",
     "icons": [{
         "src": "./navegador.png",
         "type": "image/png",
